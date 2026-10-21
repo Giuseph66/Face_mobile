@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Mapeamento ao vivo</string>
+    <string name="mapping_mode">Mapeamento</string>
+    <string name="hands_hint">Mostre suas mãos. Toque em um ponto da mão para ver XYZ.</string>
+    <string-array name="mapping_modes">
+        <item>Rostos</item>
+        <item>Mãos</item>
+    </string-array>
+    <string name="person_name">Nome da pessoa</string>
+    <string name="enroll">Cadastrar pessoa</string>
+    <string name="people">Pessoas cadastradas</string>
+    <string name="enrollment_start">Iniciar tutorial</string>
+    <string name="enrollment_step">5 posições · 15 amostras</string>
+    <string name="enrollment_front">Olhe de frente para a lente</string>
+    <string name="enrollment_progress">Progresso do cadastro guiado</string>
+    <string name="cancel">Cancelar</string>
+    <string name="recognition_starting">Preparando reconhecimento local…</string>
+    <string name="camera_starting">Preparando câmera…</string>
+    <string name="face_found">Rosto detectado · análise local</string>
+    <string name="position_face">Posicione seu rosto na câmera</string>
+    <string name="camera_paused">Câmera pausada</string>
+    <string name="pause">Pausar</string>
+    <string name="resume">Retomar</string>
+    <string name="numbers">Números</string>
+    <string name="numbers_on">Números ✓</string>
+    <string name="save">Salvar</string>
+    <string name="saving">Salvando…</string>
+    <string name="touch_hint">Toque em um ponto para ver suas coordenadas.</string>
+    <string name="capture_saved">Captura salva em %1$s</string>
+    <string name="face_limit_label">Máximo de rostos</string>
+    <string name="many_faces_hint">4 ou mais: até 8 rostos. Menos rostos favorecem a fluidez da análise.</string>
+    <string-array name="face_limits">
+        <item>1 rosto</item>
+        <item>2 rostos</item>
+        <item>3 rostos</item>
+        <item>4 ou mais rostos</item>
+    </string-array>
+    <plurals name="faces_found">
+        <item quantity="one">%d rosto detectado · análise local</item>
+        <item quantity="other">%d rostos detectados · análise local</item>
+    </plurals>
+</resources>
